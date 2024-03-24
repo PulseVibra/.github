@@ -1,5 +1,5 @@
 # Machine Vibration Monitoring Device
-## By PulseVibra
+## By VibroGuard
 
 This project is done for EN2160: Electronic Design Realization.
 
